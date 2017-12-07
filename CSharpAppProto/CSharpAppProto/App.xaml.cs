@@ -13,7 +13,7 @@ namespace CSharpAppProto
 		{
 			InitializeComponent();
 
-			MainPage = new CSharpAppProto.MainPage();
+			MainPage = new CSharpAppProto.Page1();
 		}
 
 		protected override void OnStart ()
